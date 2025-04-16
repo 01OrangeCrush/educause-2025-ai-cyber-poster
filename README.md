@@ -4,7 +4,7 @@
 This repository supports the EDUCAUSE 2025 virtual poster presentation:
 
 **"Embedding Generative AI Ethics and Security into Graduate Cybersecurity Curriculum: A Scalable Model for Higher Education"**  
-Presented by Jenn McCauley & Ed Glantz, Penn State University
+Presented by Jenn McCauley & Edward J. Glantz, Penn State University
 
 ---
 
