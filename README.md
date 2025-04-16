@@ -35,22 +35,38 @@ Key components include:
 
 ## 📚 Referenced Frameworks & Tools
 
-- [EDUCAUSE AI Governance Principles (2023)](https://er.educause.edu/articles/2023/11/ai-governance-principles-for-higher-education)
-- [NIST AI Risk Management Framework](https://www.nist.gov/itl/ai-risk-management-framework)
-- [NIST SP 800-53: Security and Privacy Controls](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
-- [Penn State Academic Integrity Guidelines](https://undergrad.psu.edu/aappm/G-9-academic-integrity.html)
-- [Grammarly for Education](https://www.grammarly.com/edu)
-- [ChatGPT in Higher Education – EDUCAUSE QuickPoll](https://er.educause.edu/blogs/2023/4/quickpoll-results-chatgpt-in-higher-education)
-- [APA Style Guidelines](https://apastyle.apa.org/)
+- [American Psychological Association. (n.d.). APA style guidelines. APA Style.]
+(https://apastyle.apa.org/)
+- [EDUCAUSE. (2023a, April). QuickPoll results: ChatGPT in higher education. EDUCAUSE Review.]
+(https://er.educause.edu/blogs/2023/4/quickpoll-results-chatgpt-in-higher-education)
+- [EDUCAUSE. (2023b, November). AI governance principles for higher education. EDUCAUSE Review.]
+(https://er.educause.edu/articles/2023/11/ai-governance-principles-for-higher-education)
+- [Grammarly Inc. (n.d.). Grammarly for education.]
+(https://www.grammarly.com/edu)
+- [National Institute of Standards and Technology. (2020). Security and privacy controls for information systems and organizations (NIST SP 800-53 Rev. 5). U.S. Department of Commerce.]
+(https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final)
+- [National Institute of Standards and Technology. (2023). Artificial Intelligence Risk Management Framework (AI RMF 1.0). U.S. Department of Commerce.]
+(https://www.nist.gov/itl/ai-risk-management-framework)
+- [Penn State Schreyer Institute for Teaching Excellence. (n.d.). AI resources for teaching and learning at Penn State.]
+(https://www.schreyerinstitute.psu.edu/pdf/PSU_AI_AI_Resources.pdf)
+- [Penn State Teaching and Learning with Technology. (2023). Generative AI exploration group final report.]
+(https://teaching.ist.psu.edu/sites/default/files/directory/GAIFinalReport-compressed.pdf)
+- [Penn State Office of the University Registrar. (n.d.). G-9: Academic integrity. Undergraduate Advising Handbook.]
+(https://undergrad.psu.edu/aappm/G-9-academic-integrity.html)
 
 ---
 
-## 👤 Author
+## 👤 Authors
 
-**Ed Glantz**  
+**Jenn McCauley** 
 Faculty, College of Information Sciences and Technology, Penn State University  
-📧 [your-email@psu.edu]  
+📧 [jcw173@psu.edu]  
 🔗 GitHub: [your-github-username]
+
+**Edward J. Glantz**  
+Faculty, College of Information Sciences and Technology, Penn State University  
+📧 [ejg8@psu.edu]  
+🔗 GitHub: [01OrangeCrush]
 
 ---
 
