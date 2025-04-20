@@ -8,7 +8,7 @@ Presented by Jenn McCauley & Edward J. Glantz, Penn State University
 
 ---
 
-## 🎯 Project Overview
+## Project Overview
 
 This poster introduces a scalable approach for integrating GenAI ethics, responsible tool use, and cybersecurity governance into a graduate-level cybersecurity project management course. The strategy supports students with diverse technical backgrounds by emphasizing academic integrity, iterative improvement, and ethical AI fluency.
 
@@ -20,7 +20,7 @@ Key components include:
 
 ---
 
-## 📂 Repository Contents
+## Repository Contents
 
 - `EDUCAUSE_2025_Poster_Proposal.pdf` — Full proposal submitted to EDUCAUSE
 - `EDUCAUSE_2025_Poster_Slide1_with_Sources.png` — Main visual poster slide
@@ -33,7 +33,7 @@ Key components include:
 
 ---
 
-## 📚 Referenced Frameworks & Tools
+## Referenced Frameworks & Tools
 
 - [American Psychological Association. (n.d.). APA style guidelines. APA Style.]
 (https://apastyle.apa.org/)
@@ -56,7 +56,7 @@ Key components include:
 
 ---
 
-## 👤 Authors
+## Authors
 
 **Jenn McCauley** 
 Faculty, College of Information Sciences and Technology, Penn State University  
