@@ -61,7 +61,7 @@ Key components include:
 **Jenn McCauley** 
 Faculty, College of Information Sciences and Technology, Penn State University  
 📧 [jcw173@psu.edu]  
-🔗 GitHub: [your-github-username]
+🔗 GitHub: [jcw173]
 
 **Edward J. Glantz**  
 Faculty, College of Information Sciences and Technology, Penn State University  
