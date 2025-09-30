@@ -22,7 +22,7 @@ Key components include:
 
 ## Repository Contents
 
-- `[EDUCAUSE_2025_Poster_Proposal.pdf]([url](https://github.com/01OrangeCrush/educause-2025-ai-cyber-poster/blob/main/EDUCAUSE_2025_Poster_Proposal.pdf))` — Full proposal submitted to EDUCAUSE
+- [EDUCAUSE_2025_Poster_Proposal.pdf](https://github.com/01OrangeCrush/educause-2025-ai-cyber-poster/blob/main/EDUCAUSE_2025_Poster_Proposal.pdf) — Full proposal submitted to EDUCAUSE
 - `EDUCAUSE_2025_Poster_Slide1_with_Sources.png` — Main visual poster slide
 - `EDUCAUSE_2025_Poster_Sources_and_Links.pdf` — Annotated reference list
 
