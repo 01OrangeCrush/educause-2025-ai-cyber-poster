@@ -18,6 +18,11 @@ Key components include:
 - Alignment with EDUCAUSE AI principles and NIST frameworks
 - Rubric-based writing support with APA citation reinforcement
 
+This effort is summarized in the forthcoming ACM publication:
+
+Glantz, E. J., McCauley, J., Nasereddin, M., & Bartolacci, M. R. (in press). AI-enhanced cybersecurity executive reporting: Experiential writing maturity model. In Proceedings of the 26th Annual Conference on Cybersecurity Information Technology Education (SIGCITE 2025). ACM. SACRAMENTO, CA, USA, 5 pages.
+
+
 ---
 
 ## Repository Contents
