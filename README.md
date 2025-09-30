@@ -4,7 +4,7 @@
 This repository supports the EDUCAUSE 2025 virtual poster presentation:
 
 **"Embedding Generative AI Ethics and Security into Graduate Cybersecurity Curriculum: A Scalable Model for Higher Education"**  
-Presented by Jenn McCauley, Chris Gamrat, & Edward J. Glantz, Penn State University
+Presented by Edward J. Glantz, Jenn McCauley, & Chris Gamrat, Penn State University
 
 ---
 
@@ -58,17 +58,17 @@ Key components include:
 
 ## Authors
 
-**Jenn McCauley** 
-Faculty, College of Information Sciences and Technology, Penn State University  
-📧 [jcw173@psu.edu]  
-🔗 GitHub: [jcw173]
-
 **Edward J. Glantz**  
 Faculty, College of Information Sciences and Technology, Penn State University  
 📧 [ejg8@psu.edu]  
 🔗 GitHub: [01OrangeCrush]
 
-**Chris Gamrat**
+**Jenn McCauley**  
+Faculty, College of Information Sciences and Technology, Penn State University  
+📧 [jcw173@psu.edu]  
+🔗 GitHub: [jcw173]
+
+**Chris Gamrat**  
 Faculty, College of Information Sciences and Technology, Penn State University  
 📧  [cwg118@psu.edu]   
 🔗 GitHub: [**]
