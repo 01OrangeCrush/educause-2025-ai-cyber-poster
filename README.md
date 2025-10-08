@@ -21,6 +21,7 @@ Key components include:
 This effort is summarized in the forthcoming **ACM publication**:
 
 - Glantz, E. J., McCauley, J., Nasereddin, M., & Bartolacci, M. R. (in press). AI-enhanced cybersecurity executive reporting: Experiential writing maturity model. In Proceedings of the 26th Annual Conference on Cybersecurity Information Technology Education (SIGCITE 2025). ACM. SACRAMENTO, CA, USA, 5 pages.
+  - Full Publication & Reference List (forthcoming) 
 
 
 ---
@@ -29,7 +30,6 @@ This effort is summarized in the forthcoming **ACM publication**:
 
 - [EDUCAUSE_2025_Poster_Proposal.pdf](https://github.com/01OrangeCrush/educause-2025-ai-cyber-poster/blob/main/EDUCAUSE_2025_Poster_Proposal.pdf) — Full proposal submitted to EDUCAUSE
 - `EDUCAUSE_2025_Poster_Slide1_with_Sources.png` — Main visual poster slide
-- `EDUCAUSE_2025_Poster_Sources_and_Links.pdf` — Annotated reference list
 
 
 ## Referenced Frameworks & Tools
