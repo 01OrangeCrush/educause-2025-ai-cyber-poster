@@ -31,12 +31,6 @@ Glantz, E. J., McCauley, J., Nasereddin, M., & Bartolacci, M. R. (in press). AI-
 - `EDUCAUSE_2025_Poster_Slide1_with_Sources.png` — Main visual poster slide
 - `EDUCAUSE_2025_Poster_Sources_and_Links.pdf` — Annotated reference list
 
-### Coming Soon
-- Rubric templates and assignment design files
-- Student-facing AI disclosure handouts (APA-style)
-- GitHub Pages preview (optional)
-
----
 
 ## Referenced Frameworks & Tools
 
@@ -76,7 +70,6 @@ Faculty, College of Information Sciences and Technology, Penn State University
 **Chris Gamrat**  
 Faculty, College of Information Sciences and Technology, Penn State University  
 📧  [cwg118@psu.edu]   
-🔗 GitHub: [**]
 
 ---
 
