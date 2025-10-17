@@ -29,7 +29,7 @@ This effort is summarized in the forthcoming **ACM publication**:
 ## Repository Contents
 
 - [EDUCAUSE_2025_Poster_Proposal.pdf](https://github.com/01OrangeCrush/educause-2025-ai-cyber-poster/blob/main/EDUCAUSE_2025_Poster_Proposal.pdf) — Full proposal submitted to EDUCAUSE
-- `EDUCAUSE_2025_Poster_Slide1_with_Sources.png` — Main visual poster slide
+- [EDUCAUSE 2025 Poster](https://github.com/01OrangeCrush/educause-2025-ai-cyber-poster/blob/2f7da0b81132fc15c7cb02e160010ad57b46e9fb/AI-Enhanced-EducausePoster.pdf) — Main visual poster slide
 
 
 ## Referenced Frameworks & Tools
